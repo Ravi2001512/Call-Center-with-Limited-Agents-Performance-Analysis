@@ -30,10 +30,12 @@ The goal is to identify performance bottlenecks and recommend strategies for opt
 ---
 
 ## 📂 Contents
+- **call center performance analyze.docx** — Problem description, objectives, metric definitions, and sample data 
 - **call_center_results.csv** — Example call-level performance data  
 
 ---
 
 ## 🚀 Getting Started
-1. **Clone or download** this repository.  
-2. Use `call_center_results.csv` for further exploration or algorithm development.  
+1. **Clone or download** this repository.
+2. Open `call center performance analyze.docx` to review the system analysis and objectives.   
+3. Use `call_center_results.csv` for further exploration or algorithm development.  
